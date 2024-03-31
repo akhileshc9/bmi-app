@@ -1,4 +1,4 @@
-import { blue, red } from '@mui/material/colors'
+
 import React, { useState } from 'react'
 
 function Bmicalc(props) {
